@@ -1,3 +1,3 @@
-# Obsidian Slate Theme
+# Obsidian "Slate" Theme
 
 ![](/slate.png)
